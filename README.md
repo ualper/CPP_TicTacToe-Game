@@ -1,2 +1,2 @@
 # Games
-Tic-Tac-Toe game developed using C++/JavaScript
+Tic-Tac-Toe game developed using C++
